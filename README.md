@@ -64,7 +64,7 @@ pip install -r requirements.txt
   brew install ffmpeg
   ```
 
-5. Create a `.env` file and add your bot token:
+5. Change a `.env` file and add your bot token:
 ```env
 TELEGRAM_TOKEN=your_telegram_bot_token
 ```
