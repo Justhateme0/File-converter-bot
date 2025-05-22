@@ -29,7 +29,7 @@ A versatile Telegram bot for converting files between different formats. A simpl
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/file-converter-bot.git
+git clone https://github.com/Justhateme0/File-converter-bot
 cd file-converter-bot
 ```
 
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 5. Create a `.env` file and add your bot token:
 ```env
-TOKEN=your_telegram_bot_token
+TELEGRAM_TOKEN=your_telegram_bot_token
 ```
 
 ## 🚀 Quick Start
@@ -153,4 +153,4 @@ If you find this project helpful, give it a star! It helps others discover this 
 - **Secure**: Local processing, no data storage
 - **Fast**: Efficient conversion algorithms
 - **Customizable**: Various conversion options
-- **Well-Maintained**: Regular updates and support
+- **Well-Maintained**: Regular updates and support 
